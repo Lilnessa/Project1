@@ -1,0 +1,1 @@
+numbeo_api = 'wl1rvko3ziykgx'
